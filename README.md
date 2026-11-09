@@ -30,4 +30,4 @@ An exploration an statistical data analysis was conducted on the Health Survey f
  * `diabetes_by_bmi.png`: BMI category distribution anaysis.
 
 ### Note on Implementation and Methodology:
-The complete Python code , data cleaning scripts, demographic breakdowns, and statistical modeling tests are fully documented and executable within the accompanying Jupyter Notebook file.
+The complete Python code , data cleaning scripts, demographic breakdowns, and statistical modeling tests are fully documented and executable within the accompanying [data_exploration_joel.ipynb](https://github.com/joelleal-analytics/Health_Survey_For_England_HSE-_20_Year_Diabetes_Prevalence_-_Risk_Factor_Analysis/blob/main/data_exploration_joel.ipynb) file.
